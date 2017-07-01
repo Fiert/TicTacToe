@@ -1,3 +1,3 @@
 # TicTacToe
 
-<b> TicTacToe Test Task </b>
+<h1> TicTacToe Test Task </h1>
