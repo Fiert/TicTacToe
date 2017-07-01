@@ -5,7 +5,7 @@ Three level difficulties.
 <li>Easy</li>
 <li>Normal</li>
 <li>Undefeated</li>
-
+<br></br>
 You can chose game mode.
 <li>Free</li>
 <li>Best of 3</li>
