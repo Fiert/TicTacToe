@@ -10,5 +10,8 @@ Three level difficulties.
 <li>Best of 3</li>
 <li>Best of 5</li>
 <br>In "Free mode" you can play any amount of games.</br>
-In "Best of 3 mode" you need to win 2 games out of 3.
-in "Best of 5 mode" you need to win 3 games out of 5.
+<br>In "Best of 3 mode" you need to win 2 games out of 3.</br>
+<br>in "Best of 5 mode" you need to win 3 games out of 5.</br>
+
+<br>Pattern used to create this game: MVC Unity3d also used Unity3d State Machine</br>
+
