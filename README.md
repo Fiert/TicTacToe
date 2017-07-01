@@ -11,4 +11,4 @@ Three level difficulties.
 <li>Best of 5</li>
 <br>In "Free mode" you can play any amount of games.
 In "Best of 3 mode" you need to win 2 games out of 3.
-in "Best of 5 mode" you need to win 3 games out of 5.</br>
+in "Best of 5 mode" you need to win 3 games out of 5.
